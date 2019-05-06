@@ -1,0 +1,35 @@
+{
+  "name": "My Portfolio with Pioneer Project",
+  "homepage": "https://github.com/techknohauz/ATnotify.github.io",
+  "authors": [
+    "Robin Familara<techknohauz@gmail.com>"
+  ],
+  "description": "This is my projects portfolio website",
+  "main": "app.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation-sites": "^6.3.1",
+    "normalize-css": "^6.0.0",
+    "typed.js": "^1.1.7",
+    "jqcloud2": "^2.0.2",
+    "custombox": "^4.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "helmet": "^3.15.0",
+    "jsonwebtoken": "^8.4.0",
+    "knex": "^0.16.3",
+    "pg": "^7.7.1",
+    "sqlite3": "^4.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.7"
+  }
+}
