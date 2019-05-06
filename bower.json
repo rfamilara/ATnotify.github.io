@@ -1,6 +1,6 @@
 {
   "name": "My Portfolio with Pioneer Project",
-  "homepage": "https://github.com/techknohauz/my_project-portfolio",
+  "homepage": "https://github.com/techknohauz/myprojectportfolio",
   "authors": [
     "Robin Familara<techknohauz@gmail.com>"
   ],
@@ -19,8 +19,7 @@
     "normalize-css": "^6.0.0",
     "typed.js": "^1.1.7",
     "jqcloud2": "^2.0.2",
-    "custombox": "^4.0.1"
-    "bcryptjs": "^2.4.3",
+    "custombox": "^4.0.1",
     "cors": "^2.8.5",
     "dotenv": "^6.2.0",
     "express": "^4.16.4",
